@@ -1,3 +1,5 @@
+Please Note: All files are uploaded in the zip Folder
+
 # Attendance-Management-System
 this is a attendance management system which i made for my final semester in MCA
 the project is made on Java on the netbeans tools and helped me gain alot of the knowledge 
