@@ -53,6 +53,6 @@ The **Attendance Management System** is a desktop-based Java application designe
    String url = "jdbc:mysql://localhost:3306/attendance";
    String user = "root";
    String password = "";
-''''
+'
    Here is a video link
    https://drive.google.com/file/d/1zkdmNSggWGotsNU2xlNxc5lvy9Fn8xP6/view?usp=sharing
